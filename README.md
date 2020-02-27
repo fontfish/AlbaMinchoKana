@@ -20,15 +20,17 @@ Development is done using the wonderful [FontForge] (https://fontforge.org/en-US
 
 Before starting on a hiragana glyph, I make sure to research its design, such as its brush-written appearance, components and differences from glyps that may appear similar at first glance. It is also worth taking into account the original Chinese character the kana is derived from. These principles must be followed for the katakana as well.
 
+No work has yet been done to “hint” these fonts or make them more suitable for onscreen use.
+
 ### References
 
-I use the following open source fonts to give myself a better idea of the proportions of kana glyphs when designing:
+I use the following open source fonts to give myself a better idea of the proportions of kana glyphs when designing.
 
-[Source Han Serif] (https://github.com/adobe-fonts/source-han-serif)
+[Source Han Serif](https://github.com/adobe-fonts/source-han-serif)
 
-[M+ fonts] (https://mplus-fonts.osdn.jp/)
+[M+ fonts](https://mplus-fonts.osdn.jp/)
 
-[Gutenberg Labo] (https://gutenberg.osdn.jp/)
+[Gutenberg Labo](https://gutenberg.osdn.jp/)
 
 I will also list the titles of the design books I have been using for their helpful explanations of the design principles of Japanese typefaces once I am at my bookshelf to see them.
 
