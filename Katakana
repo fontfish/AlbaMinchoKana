@@ -1,0 +1,34 @@
+·Create katakana glyps in AlbaMinchoKana.sfd file to finish Alba Mincho Kana.
+·Then make AlbaMinchoSmall version.
+
+Border on each side is 12% of width of type square.
+
+Create in order of いろは alphabet, then make dakuten and handakuten glyphs, then small glyphs.
+
+Katakana
+イロハニホヘト
+チリヌルヲ
+ワカヨタレソ
+ツネナラム
+ウヰノオクヤマ
+ケフコエテ
+アサキユメミシ
+ヱヒモセス
+ンヿ
+
+ガギグゲゴ
+ザジズゼゾ
+ダヂヅデド
+バビブベボ
+パピプペポ
+ヴ　ヷヸヹヺ
+ァィゥェォ　ッ　ャュョ　ヮ　ヵヶ
+ヽヾ
+
+
+Done:
+イロ　ニ
+　　　　ク
+ケ
+ン
+ゲ
