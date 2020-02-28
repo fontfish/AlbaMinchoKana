@@ -1,4 +1,4 @@
-# Alba Mincho Kana プロト明朝かな
+# Alba Mincho Kana アルバ明朝かな
 
 Alba Mincho is a contemporary yet traditional Japanese kana typeface suitable for literature and long text. It is modern in its design and details whilst retaining traditional features that make it well-suited for print media as well as digital use.
 
