@@ -7,7 +7,6 @@ Copyright: Created by G.W. with FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2015-4-21: Created.+AAoA-Design by G J Wilson.+AAoA-Created for the typesetting of short pieces of poetry.+AAoACgAA-2019-02-28: Modified and renamed for further development and public release."
 FontLog: "Add a FONTLOG."
 Version: 001.000
-DefaultBaseFilename: アルバ明朝かな
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -25,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1429650512
-ModificationTime: 1582854778
+ModificationTime: 1582857125
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
