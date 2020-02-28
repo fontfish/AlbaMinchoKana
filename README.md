@@ -1,8 +1,8 @@
-# Proto Mincho Kana プロト明朝かな
+# Alba Mincho Kana プロト明朝かな
 
-Proto Mincho is a contemporary yet traditional Japanese kana typeface suitable for literature and long text. It is modern in its design and details whilst retaining traditional features that make it well-suited for print media as well as digital use.
+Alba Mincho is a contemporary yet traditional Japanese kana typeface suitable for literature and long text. It is modern in its design and details whilst retaining traditional features that make it well-suited for print media as well as digital use.
 
-Proto Mincho takes its name from being a test, the basis of knowledge for any future Japanese fonts I design. Despite the name, Proto Mincho Kana is made with the aim of eventually being a fully functional kana typeface.
+This font is named Alba Mincho (アルバ明朝) after the [Scottish Gaelic name](https://en.wiktionary.org/wiki/Alba#Scottish_Gaelic) for Scotland, where I am working on the design.
 
 ### Details
 
@@ -10,7 +10,7 @@ Mincho Kana is a Japanese kana font designed from scratch, aimed predominantly a
 
 My knowledge of Japanese letterforms and their calligraphic origins is improving all the time, so some changes may be made to balance these roots with modern typographic expectations and create a more harmonious design. As a digital font aimed at readability, however, typography is the deciding factor in most decisions.
 
-As much as possible, I'm trying to work off my own judgement when designing Proto Mincho, but all judgement is the result of experience, of which I yet have little. Design features have been influenced by various free and commercial fonts I have seen used in book text, as well as by examples I have seen of Japanese lettering and my own (still very rudimentary) knowledge of *shodō* (Japanese calligraphy).
+As much as possible, I'm trying to work off my own judgement when designing Alba Mincho, but all judgement is the result of experience, of which I yet have little. Design features have been influenced by various free and commercial fonts I have seen used in book text, as well as by examples I have seen of Japanese lettering and my own (still very rudimentary) knowledge of *shodō* (Japanese calligraphy).
 
 Mincho Kana is also intended to have a letterpress-suitable version of the font for use on physical photopolymer printing plates (which I have tried and tested with much success). This has reduced contrast (thicker thin strokes), a few ink-spread modifications and some of the *hane* modified or removed.
 
@@ -40,7 +40,7 @@ As of the time of writing this, I am still trying to decide on an appropriate li
 
 ###### To-Do
 
-0. Upload the fonts! Include a merge with the photopolymer version.
+0. Write README.ja.md in Japanese
 
 1. Enlarge “serifs” on some hiragana. As-is, they are somewhat diminished at smaller text sizes.
 
@@ -48,4 +48,4 @@ As of the time of writing this, I am still trying to decide on an appropriate li
 
 3. Begin on katakana design in earnest.
 
-4. Write README.ja.md in Japanese
+4. Merge with the earlier photopolymer version of the font.
