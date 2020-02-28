@@ -5,7 +5,6 @@ Alba Mincho is a contemporary yet traditional Japanese kana typeface suitable fo
 This font is named Alba Mincho (アルバ明朝) after the [Scottish Gaelic name](https://en.wiktionary.org/wiki/Alba#Scottish_Gaelic) for Scotland, where I am working on the design.
 
 ![Link to Logo PNG](https://github.com/fontfish/AlbaMinchoKana/blob/master/Logo/uni3042_AlbaMinchoKana-260.png)
-===================
 
 ## Details
 
