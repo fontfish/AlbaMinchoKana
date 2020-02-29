@@ -14,7 +14,7 @@ My knowledge of Japanese letterforms and their calligraphic origins is improving
 
 As much as possible, I'm trying to work off my own judgement when designing Alba Mincho, but all judgement is the result of experience, of which I yet have little. Design features have been influenced by various free and commercial fonts I have seen used in book text, as well as by examples I have seen of Japanese lettering and my own (still very rudimentary) knowledge of *shodō* (Japanese calligraphy).
 
-Mincho Kana is also intended to have a letterpress-suitable version of the font for use on physical photopolymer printing plates (which I have tried and tested with much success). This has reduced contrast (thicker thin strokes), a few ink-spread modifications and some of the *hane* modified or removed.
+Alba Mincho Kana is also intended to have a letterpress-suitable version of the font for use on physical photopolymer printing plates (which I have tried and tested with much success). This has reduced contrast (thicker thin strokes), a few ink-spread modifications and some of the *hane* modified or removed.
 
 ### Development
 
