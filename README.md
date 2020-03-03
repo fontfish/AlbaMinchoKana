@@ -1,4 +1,3 @@
-![Link to Logo PNG](https://github.com/fontfish/AlbaMinchoKana/blob/master/Logo/uni3042_AlbaMinchoKana-96.png)
 # Alba Mincho Kana アルバ明朝かな
 
 ![Link to Sample PNG](https://github.com/fontfish/AlbaMinchoKana/blob/master/Testing/Samples/Sample_basic.png)
