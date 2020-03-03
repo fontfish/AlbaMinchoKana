@@ -1,9 +1,11 @@
 # The To-Do List
-## *in order of priority*
+### *in order of priority*
+
 
 ## To Do:
 * Link all horizontal glyphs to vertical.
 * Adjust hiragana shapes and modify glyphs.
+  * Resize some glyphs (right now they are slightly uneven – は looks big compared to あ, for instance)
 * The lead-in strokes and flicks on some glyphs are small. Compare all and even out.
 * Create Katakana
 * Include U+1b000 (𛀀) and U+1b001 (𛀁) archaic kana glyphs.
@@ -18,7 +20,7 @@
 * Make halfwidth glyphs.
 
 * Create 小 verstion (all glyphs slightly scaled down).
-  * Then copy carefully kana to the AlbaPrintMincho fonts to make photopolymer-suitable version.
+  * Then carefully copy kana to the AlbaPrintMincho fonts to make photopolymer-suitable version.
   * Increase contrast on AlbaPrintMincho (predominantly by thinning hairlines)?
 
 ## Uncertainties:
@@ -45,7 +47,7 @@ Ctrl-Shift-D
 ### To remove overlap
 Ctrl-Shift-O
 
-##### How To Git
+#### How To Git
 A reminder for myself of how to Git.
 git add .
 git commit
