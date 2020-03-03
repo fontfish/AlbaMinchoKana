@@ -34,7 +34,10 @@ I use the following open source fonts to give myself a better idea of the propor
 
 [Gutenberg Labo](https://gutenberg.osdn.jp/)
 
-I will also list the titles of the design books I have been using for their helpful explanations of the design principles of Japanese typefaces once I am at my bookshelf to see them.
+#### Japanese Design Books
+
+* 『文字の作り方　❝伝わる❞文字はどうやって生まれるの？』 Clear explanation of the design categories and features of Japanese typefaces.
+* 『もじのデザイン・書体のフシギ』 Detailed information on the construction of Japanese typefaces (as yet mostly unread, but provides very helpful insights).
 
 ### Licensing
 
