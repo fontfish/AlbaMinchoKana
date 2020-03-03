@@ -1,7 +1,7 @@
 ![Link to Logo PNG](https://github.com/fontfish/AlbaMinchoKana/blob/master/Logo/uni3042_AlbaMinchoKana-96.png)
 # Alba Mincho Kana アルバ明朝かな
 
-![Link to Sample PNG](https://github.com/fontfish/AlbaMinchoKana/blob/master/Testing/Sample_basic.png)
+![Link to Sample PNG](https://github.com/fontfish/AlbaMinchoKana/blob/master/Testing/Samples/Sample_basic.png)
 
 Alba Mincho is a contemporary yet traditional Japanese kana typeface suitable for literature and long text. It is modern in its design and details whilst retaining traditional features that make it well-suited for print media as well as digital use.
 
