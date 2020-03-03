@@ -44,3 +44,9 @@ Ctrl-Shift-D
 
 ### To remove overlap
 Ctrl-Shift-O
+
+##### How To Git
+A reminder for myself of how to Git.
+git add .
+git commit
+git push
