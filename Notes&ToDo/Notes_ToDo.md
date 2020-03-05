@@ -2,20 +2,21 @@
 ### *in order of priority*
 
 ## To Do:
-[ ] Brush up on my Japanese font terminology.
-[ ] Redesign lead-in stroke components.
-[ ] Link all horizontal glyphs to vertical.
-[ ] Adjust hiragana shapes and modify glyphs.
-  * [ ] Resize some glyphs (right now they are slightly uneven – は looks big compared to あ, for instance)
-[ ] The lead-in strokes and flicks on some glyphs are small. Compare all and even out.
-[ ] Create Katakana
-[ ] Include U+1b000 (𛀀) and U+1b001 (𛀁) archaic kana glyphs.
-[ ] Make extra punctuation.
-[ ] Link all new horizontal glyphs to vertical.
+[] Enlarge の slightly.
+[] Brush up on my Japanese font terminology.
+[] Redesign lead-in stroke components.
+[] Link all horizontal glyphs to vertical.
+[] Adjust hiragana shapes and modify glyphs.
+  * [] Resize some glyphs (right now they are slightly uneven – は looks big compared to あ, for instance)
+[] The lead-in strokes and flicks on some glyphs are small. Compare all and even out.
+[] Create Katakana
+[] Include U+1b000 (𛀀) and U+1b001 (𛀁) archaic kana glyphs.
+[] Make extra punctuation.
+[] Link all new horizontal glyphs to vertical.
 
 ### Once all full-size glyphs have been created:
-[ ] Make small kana.
-[ ] Make halfwidth glyphs.
+[] Make small kana.
+[] Make halfwidth glyphs.
 * Create 小 verstion (all glyphs slightly scaled down).
   * Then carefully copy kana to the AlbaPrintMincho fonts to make photopolymer-suitable version.
   * Increase contrast on AlbaPrintMincho (predominantly by thinning hairlines)?
