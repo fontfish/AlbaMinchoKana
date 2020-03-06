@@ -7,21 +7,21 @@
 
 ## List of linking glyphs
 
-* [*] 、 – U+3001 and ︑ – U+FE11
+* [x] 、 – U+3001 and ︑ – U+FE11
 
-* [*] 。 – U+3002 and ︒ – U+FE21
+* [x] 。 – U+3002 and ︒ – U+FE21
 
-* [*] 〈 – U+3008 and ︿ – U+FE3F
-* [*] 〉 – U+3009 and ﹀ – U+FE40
+* [x] 〈 – U+3008 and ︿ – U+FE3F
+* [x] 〉 – U+3009 and ﹀ – U+FE40
 
-* [*] 《 – U+300A and ︽ – U+FE3D
-* [*] 》 – U+300B and ︾ – U+FE3E
+* [x] 《 – U+300A and ︽ – U+FE3D
+* [x] 》 – U+300B and ︾ – U+FE3E
 
-* [*] 「 – U+300C and ﹁ – U+FE41
-* [*] 」 – U+300D and ﹂ – U+FE42
+* [x] 「 – U+300C and ﹁ – U+FE41
+* [x] 」 – U+300D and ﹂ – U+FE42
 
-* [*] 『 – U+300E and ﹃ – U+FE43
-* [*] 』 – U+300F and ﹄ – U+FE44
+* [x] 『 – U+300E and ﹃ – U+FE43
+* [x] 』 – U+300F and ﹄ – U+FE44
 
 * [ ] 【 – U+3010 and ︻ – U+FE3B *
 * [ ] 】 – U+3011 and ︼ – U+FE3C *
@@ -38,8 +38,8 @@
 * [ ] 〚 – U+301A and U+? **
 * [ ] 〛 – U+301B and U+? **
 
-* [*] （ – U+FF08 and ︵ – U+FE35
-* [*] ） – U+FF09 and ︶ – U+FE36
+* [x] （ – U+FF08 and ︵ – U+FE35
+* [x] ） – U+FF09 and ︶ – U+FE36
 
 * [ ] ［ – U+FF3B and ﹇ – U+FE47 *
 * [ ] ］ – U+FF3D and ﹈ – U+FE48 *
@@ -50,5 +50,6 @@
 * [ ] ｟ – U+FF5F and U+? **
 * [ ] ｠ – U+FF60 and U+? **
 
-\* Not yet supported.
+\* Glyphs not yet added.
+
 \** Non-priority. Will be supported eventually.

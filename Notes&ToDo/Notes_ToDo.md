@@ -3,7 +3,7 @@
 
 ## To Do:
 * [ ] Brush up on my Japanese font terminology.
-* [*] Enlarge の slightly. (Not strictly necessary.)
+* [x] Enlarge の slightly. (Not strictly necessary.)
 * [ ] Rotate dakuten (濁点 = ゙) slightly. It currently feels very vertical.
 * [ ] The lead-in strokes and flicks on some glyphs are small. Redesign. (Getting there!)
   * [ ] Check *all* glyphs for consistency of those components. Compare and even out.
