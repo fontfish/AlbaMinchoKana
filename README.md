@@ -1,6 +1,6 @@
 # Alba Mincho Kana アルバ明朝かな
 
-![Link to Sample PNG](https://github.com/fontfish/AlbaMinchoKana/blob/master/Testing/Samples/Sample_basic.png)
+![Link to Sample PNG](https://github.com/fontfish/AlbaMinchoKana/blob/master/Testing/Samples/sample_basic.png)
 
 Alba Mincho is a contemporary yet traditional Japanese kana typeface suitable for literature and long text. It is modern in its design and details whilst retaining traditional features that make it well-suited for print media as well as digital use.
 
@@ -14,7 +14,7 @@ My knowledge of Japanese letterforms and their calligraphic origins is improving
 
 As much as possible, I'm trying to work off my own judgement when designing Alba Mincho, but all judgement is the result of experience, of which I yet have little. Design features have been influenced by various free and commercial fonts I have seen used in book text, as well as by examples I have seen of Japanese lettering and my own (still very rudimentary) knowledge of *shodō* (Japanese calligraphy).
 
-Alba Mincho Kana is also intended to have a letterpress-suitable version of the font for use on physical photopolymer printing plates (which I have tried and tested with much success). This has reduced contrast (thicker thin strokes), a few ink-spread modifications and some of the *hane* modified or removed.
+Alba Mincho Kana is also intended to have a letterpress-suitable version of the font for use on physical photopolymer printing plates (which I have tried and tested with much success). This has reduced contrast (thicker thin strokes), a few ink-spread modifications and some of the *hane* modified or removed to avoid ink congestion.
 
 ### Development
 
@@ -43,14 +43,12 @@ I use the following open source fonts to give myself a better idea of the propor
 
 As of the time of writing this, I am still trying to decide on an appropriate license for these fonts. I will most likely choose either the GNU Public License or the SIL Open Font License, though I am very much an admirer of the boldly open license used by M+ and Gutenberg Labo.
 
-###### To-Do
+##### Current goals.
 
-0. Write README.ja.md in Japanese
+0. Write README.ja.md in Japanese.
 
 1. Enlarge “serifs” on some hiragana. As-is, they are somewhat diminished at smaller text sizes.
 
-2. Redesign the ふ. It feels unbalanced.
+2. Begin on katakana design in earnest.
 
-3. Begin on katakana design in earnest.
-
-4. Merge with the earlier photopolymer version of the font.
+3. Create “print” version merged with the older photopolymer version of the font.
