@@ -8,7 +8,7 @@ This font is named Alba Mincho (アルバ明朝) after the [Scottish Gaelic name
 
 ## Details
 
-Mincho Kana is a Japanese kana font designed from scratch, aimed predominantly at vertical text typesetting that is as-yet little seen on the web despite its support in css but very common in Japanese printed matter, especially novels. It is under active development and may change as it is made. Currently, I am in the process of digging up what I designed some time ago and using it as a basis for the updated version.
+Alba Mincho Kana is a Japanese kana font designed from scratch, aimed predominantly at vertical text typesetting that is as-yet little seen on the web despite its support in css but very common in Japanese printed matter, especially novels. It is under active development and may change as it is made. Currently, I am in the process of digging up what I designed some time ago and using it as a basis for the updated version.
 
 My knowledge of Japanese letterforms and their calligraphic origins is improving all the time, so some changes may be made to balance these roots with modern typographic expectations and create a more harmonious design. As a digital font aimed at readability, however, typography is the deciding factor in most decisions.
 
