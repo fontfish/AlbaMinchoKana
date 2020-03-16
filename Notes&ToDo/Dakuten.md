@@ -9,3 +9,11 @@ One thing I have noticed with great frequency when reading Japanese, especially 
 ## A New Approach
 
 In Alba Mincho Kana, I'd like to take another approach, which I will make optionally available as an OpenType feature. Rather than simply scaling the mark, I'd like to realign the two dots of the *dakuten* entirely so as to cause no confusion, skewing the placement to a more traditionally calligraphic offset so that the resulting shape is discernible even at very small sizes or in bad printing conditions.
+
+## Examples
+
+Here are some examples of my experiments so far with modifying the shape of *dakuten*. These images were generated in Inkscape, applying blur to simulate bad printing and screen pixelation.
+
+![濁点](https://github.com/fontfish/AlbaMinchoKana/blob/master/Testing/Dakuten/d1-medium.png)
+![半濁点](https://github.com/fontfish/AlbaMinchoKana/blob/master/Testing/Dakuten/hd-medium.png)
+![ずらした濁点](https://github.com/fontfish/AlbaMinchoKana/blob/master/Testing/Dakuten/d2-medium.png)

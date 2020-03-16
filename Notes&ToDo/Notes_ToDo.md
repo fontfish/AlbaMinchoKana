@@ -17,6 +17,7 @@
 
 ### Once all full-size glyphs have been created:
 * [ ] Make small kana.
+* [ ] Make modified dakuten (濁点 = ゙) for ease of reading at small sizes.
 * [ ] Make halfwidth glyphs.
 * Create 小 verstion (all glyphs slightly scaled down).
   * Then carefully copy kana to the AlbaPrintMincho fonts to make photopolymer-suitable version.
