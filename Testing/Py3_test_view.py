@@ -1,10 +1,18 @@
 #!/usr/bin/python3
+#
+# Much of this code inspired by various online examples. Heavily modified.
+# See the following for help with modification:
+# https://pycairo.readthedocs.io/en/latest/getting_started.html
+# https://python-gtk-3-tutorial.readthedocs.io/en/latest/introduction.html
+# https://lazka.github.io/pgi-docs/
+#
+
+
 """
-Much of this code inspired by various online examples. Heavily modified.
-See the following for help with modification:
-https://pycairo.readthedocs.io/en/latest/getting_started.html
-https://python-gtk-3-tutorial.readthedocs.io/en/latest/introduction.html
-https://lazka.github.io/pgi-docs/
+drawingarea {
+	color: #ffffff;
+}
+#FFFFF0 /*Ivory*/
 """
 
 import sys, gi, math
@@ -13,7 +21,6 @@ gi.require_version('PangoCairo', '1.0')
 from gi.repository import Gtk, Gdk, Pango, cairo, PangoCairo
 
 # All the defs.
-
 def style_gtk():
 	css = b"""
 * {
@@ -34,19 +41,19 @@ def take_text():
 	return txt
 
 def set_font():
-	print("Choose font. (Default is Alba Mincho Kana for testing.)")
+	print("Choose font. (Default is Alba Mincho Kana.)")
 	f = input()
 	if f == "":
 		f = "Alba Mincho"
 	return f
-"""
+
 def set_font_style():
-	print("Choose font options. (Bold, Italic, etc.) Default is Medium.")
+	print("Choose font options – Bold, Italic, etc. (Default is none.)")
 	f = input()
 	if f == "":
-		f = "Medium"
+		f = ""
 	return f
-"""
+
 def set_font_size():
 	print("Choose font size. (Default is 20.)")
 	f = input()
@@ -77,22 +84,22 @@ def cairo_draws(widget, mything):# mything is the Cairo context.
 	mypc.set_base_gravity(4)# Pango gravity. South = 0, East = 1, North = 2, West = 3, Auto = 4.
 
 	mylayout = Pango.Layout.new(mypc)
-	mylayout.set_font_description(Pango.FontDescription("%s %s" %(font, fontsize)))
+	mylayout.set_font_description(Pango.FontDescription("%s %s %s" %(font, fontstyle, fontsize)))
 	mylayout.set_text(usertext, -1)
 
 	PangoCairo.show_layout(mything, mylayout)
 
 # Command line stuff.
-
 usertext = take_text()
 font = set_font()
-#fontstyle = set_font_style()
+fontstyle = set_font_style()
 fontsize = set_font_size()
 rotation = user_rotation()
 
-# All the GTK stuff.
+# CSS stuff.
+style_gtk()
 
-style_gtk()# To add the CSS.
+# All the GTK stuff.
 win = Gtk.Window()
 win.connect('destroy', Gtk.main_quit)
 

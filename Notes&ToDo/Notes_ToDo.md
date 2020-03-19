@@ -14,10 +14,11 @@
 * [ ] Include U+1b000 (𛀀) and U+1b001 (𛀁) archaic kana glyphs.
 * [ ] Make extra punctuation (and add fullwidth quote marks).
 * [ ] Link all new horizontal glyphs to vertical.
+* [ ] The Python3 test file shows an error somewhere – the vertical spacing of glyphs is uneven. Find out why and fix.
 
 ### Once all full-size glyphs have been created:
 * [ ] Make small kana.
-* [ ] Make modified dakuten (濁点 = ゙) for ease of reading at small sizes.
+* [ ] Make modified dakuten (濁点 = ゙) glyphs for ease of reading at small sizes.
 * [ ] Make halfwidth glyphs.
 * Create 小 verstion (all glyphs slightly scaled down).
   * Then carefully copy kana to the AlbaPrintMincho fonts to make photopolymer-suitable version.
