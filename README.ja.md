@@ -2,15 +2,15 @@
 
 ![見本](https://github.com/fontfish/AlbaMinchoKana/blob/master/Testing/Samples/sample_basic.png)
 
-『アルバ明朝』とは、伝統を生かしつつも現代的な表情をあらわせもつ書体で、
+『アルバ明朝』とは、伝統を生かしつつも現代的な表情をあわせもつ書体で、
 文学作品や長い文章にお使いいただけます。
 
-モダーンなデザインでありながら、明朝フォントの伝統的な特色も保っているため、
+モダンなデザインでありながら、明朝フォントの伝統的な特色も保っているため、
 デジタル表示のみでなく、オフセット印刷や活版印刷等にも対応できます。
 
 アルバという名前はこのフォントの開発者が住むスコットランドのゲール語で、
 [「スコットランド」](https://ja.wiktionary.org/wiki/Alba)
-を意味するところに由来しています。
+を意味する言葉に由来しています。
 
 ## 『アルバ明朝かな』について
 
@@ -26,7 +26,7 @@
 ソースの書体が必要となります。
 
 フォントの開発者は、仮名についての知識や理解を深めながら、伝統的な仮名文字と
-モダーンな文字作りのバランスを保ちつつ、読みやすさを中心に、書体のデザインに
+モダンな文字作りのバランスを保ちつつ、読みやすさを中心に、書体のデザインに
 磨きをかけてきました。
 
 フォトポリマー版の活版印刷専用バージョンを作る予定もあります。細い線を少し
@@ -68,7 +68,7 @@
 
 ### ライセンス
 
-As of the time of writing this, I am still trying to decide on an appropriate license for these fonts. I will most likely choose either the GNU Public License or the SIL Open Font License, though I am very much an admirer of the boldly open license used by M+ and Gutenberg Labo.
+まだ決まっておりませんが、GNU Public Licence か、Open Font Licence になる可能性が高いです。
 
 ##### 目標
 
