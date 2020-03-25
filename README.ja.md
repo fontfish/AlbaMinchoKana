@@ -40,8 +40,8 @@
 時に下書きを紙と鉛筆等で書いたりしますが、大半のデザインはパソコンで行います。
 
 [デビアンLinux](https://debian.org) で [FontForge](https://fontforge.org/en-US/)
-や [Inkscape](https://inkscape.org/) 等、オープン・ソースのソフトを使って開発
-します。このソフトの開発、改善に携わる皆様には、誠に感謝しております。
+や [Inkscape](https://inkscape.org/) 等、オープン・ソースのソフトを使って
+開発します。このソフトの開発、改善に携わる皆様には、誠に感謝しております。
 
 ひらがな一文字を書く前、その字の特徴（デザイン、形、書道の書き方や見た目）や
 似ている字との違いを調べておきます。かなの元になった漢字も知っておく価値は
@@ -72,9 +72,8 @@
 
 ##### 目標
 
-1. Enlarge “serifs” on some hiragana. As-is, they are somewhat diminished at smaller text sizes.
+1. ひらがなの「セリフ」の大きさが統一していません。これを直すこと。
 
 2. 本格的にカタカナを作ること。
 
 3. フォトポリマー印刷用のバージョンを作ること。
-

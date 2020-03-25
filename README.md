@@ -76,7 +76,7 @@ open license used by M+ and Gutenberg Labo.
 
 ##### Current goals.
 
-0. Write README.ja.md in Japanese.
+0. Re-establish clear design goals by unifying and improving hiragana glyphs.
 
 1. Enlarge “serifs” on some hiragana. As-is, they are somewhat diminished at smaller text sizes.
 
