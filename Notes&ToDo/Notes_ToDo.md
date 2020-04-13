@@ -4,7 +4,8 @@
 ## To Do:
 * [ ] Brush up on my Japanese font terminology.
 * [x] Enlarge の slightly. (Not strictly necessary.)
-* [ ] The top stroke of the hiragana こ has a misaligned brush return. This should essentially be similar to an *uroko* (うろこ), typographically speaking, but is not currently. Fix it.
+* [x] The top stroke of the hiragana こ has a misaligned brush return. This should essentially be similar to an *uroko* (うろこ), typographically speaking, but is not currently. Fix it.
+  * [ ] Take a second look. Adjust again if necessary.
   * [ ] Write up a brief explanation of how an understanding of calligraphic influence and the calligraphic origins are import in understanding letter design, using this as an example.
 * [ ] Rotate dakuten (濁点 = ゙) slightly. It currently feels very vertical.
 * [ ] The lead-in strokes and flicks on some glyphs are small. Redesign. (Getting there!)
