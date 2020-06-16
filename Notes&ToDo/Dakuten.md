@@ -4,7 +4,7 @@ In both Japanese kana syllabaries, the *dakuten*, two small dots (゛), and *han
 
 ## The Issue
 
-One thing I have noticed with great frequency when reading Japanese, especially at small sizes such as in ruby (振り仮名) lettering, is the difficulty in differentiating between these marks. Surprisingly similar, especially in pixelated or bad printing conditions, this can make an impact on the ease of reading a novel or webpage, or on finding a word in a dictionary. In some cases, context makes the distinction clear, but just as often trying to figure out a word becomes a process of trial and error. Some typefaces have attempted to overcome this problem by making the *dakuten* bigger or the *handakuten* a thinner ring, but even then it's a more difficult task than I believe necessary to tell the two marks apart.
+One thing I have noticed with great frequency when reading Japanese, especially at small sizes such as in ruby (振り仮名) lettering, is the difficulty in differentiating between these marks. They can look surprisingly similar, espexially on pixelated screens or in bad printing conditions, this can make an impact on the ease of reading a novel or webpage, or on finding a word in a dictionary. In some cases, context makes the distinction clear, but just as often trying to figure out a word becomes a process of trial and error, especially for those new to the language. Some typefaces have attempted to overcome this problem by making the *dakuten* bigger or the *handakuten* a thinner ring, but even then it's a more difficult task than I believe necessary to tell the two marks apart.
 
 ## A New Approach
 

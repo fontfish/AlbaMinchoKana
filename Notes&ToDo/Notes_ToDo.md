@@ -4,6 +4,7 @@
 ## To Do:
 * [ ] Brush up on my Japanese font terminology.
 * [x] Enlarge の slightly. (Not strictly necessary.)
+* [ ] Enlarge う just slightly. (Lengthen, to be more precise.)
 * [x] The top stroke of the hiragana こ has a misaligned brush return. This should essentially be similar to an *uroko* (うろこ), typographically speaking, but is not currently. Fix it.
   * [ ] Take a second look. Adjust again if necessary.
   * [ ] Write up a brief explanation of how an understanding of calligraphic influence and the calligraphic origins are import in understanding letter design, using this as an example.
