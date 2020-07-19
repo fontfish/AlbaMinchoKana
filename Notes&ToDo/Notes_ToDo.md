@@ -19,6 +19,7 @@
 * [ ] Make extra punctuation (and add fullwidth quote marks).
 * [ ] Link all new horizontal glyphs to vertical.
 * [ ] The Python3 test file shows an error somewhere – the vertical spacing of glyphs is uneven. Find out why and fix.
+* [ ] Add へのへのもへじ face as an OpenType feature ligature.
 
 ### Once all full-size glyphs have been created:
 * [ ] Make small kana.
@@ -59,6 +60,6 @@ Ctrl-Shift-O
 
 #### How To Git
 A reminder for myself of how to Git.
-git add .
+git add . (or git add -A)
 git commit
 git push
