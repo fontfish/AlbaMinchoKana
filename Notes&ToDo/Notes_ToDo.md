@@ -15,7 +15,7 @@
   * [ ] Resize some glyphs (right now they are slightly uneven – は looks big compared to あ, for instance)
 * [ ] Link all horizontal glyphs to vertical.
 * [ ] Create Katakana.
-* [ ] Include U+1b000 (𛀀) and U+1b001 (𛀁) archaic kana glyphs.
+* [ ] Include U+1b000 (𛀀) and U+1b001 (𛀁) archaic kana glyphs, as well as the archaic form of お(於)(OpenType).
 * [ ] Make extra punctuation (and add fullwidth quote marks).
 * [ ] Link all new horizontal glyphs to vertical.
 * [ ] The Python3 test file shows an error somewhere – the vertical spacing of glyphs is uneven. Find out why and fix.
@@ -37,7 +37,7 @@ http://designwithfontforge.com/en-US/Making_Sure_Your_Font_Works_Validation.html
 Should the 点 on the ン be bigger?
 
 ## To Not Do
-* Don't use glyps u10FFDE to u10FFED for vertical glyps.
+* Don't use glyps u10FFDE to u10FFED for vertical glyphs.
 
 
 # Notes
