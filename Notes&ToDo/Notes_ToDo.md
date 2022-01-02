@@ -4,7 +4,7 @@
 ## To Do:
 * [ ] Brush up on my Japanese font terminology.
 * [x] Enlarge の slightly. (Not strictly necessary.)
-* [ ] Enlarge う just slightly. (Lengthen, to be more precise.)
+* [ ] Enlarge う just slightly. (Lengthen, to be more precise.) (Actually, don't.)
 * [x] The top stroke of the hiragana こ has a misaligned brush return. This should essentially be similar to an *uroko* (うろこ), typographically speaking, but is not currently. Fix it.
   * [ ] Take a second look. Adjust again if necessary.
   * [ ] Write up a brief explanation of how an understanding of calligraphic influence and the calligraphic origins are import in understanding letter design, using this as an example.
@@ -18,7 +18,7 @@
 * [ ] Include U+1b000 (𛀀) and U+1b001 (𛀁) archaic kana glyphs, as well as the archaic form of お(於)(OpenType).
 * [ ] Make extra punctuation (and add fullwidth quote marks).
 * [ ] Link all new horizontal glyphs to vertical.
-* [ ] The Python3 test file shows an error somewhere – the vertical spacing of glyphs is uneven. Find out why and fix.
+* [ ] The Python test file shows an error somewhere – the vertical spacing of glyphs is uneven. Find out why and fix.
 * [ ] Add へのへのもへじ face as an OpenType feature ligature.
 
 ### Once all full-size glyphs have been created:
